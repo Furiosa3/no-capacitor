@@ -1,0 +1,2 @@
+# no-capacitor
+for compressor
